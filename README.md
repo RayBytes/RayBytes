@@ -1,4 +1,6 @@
-### Yo 👋
+### Yo, i'm Ray 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=raybytes&color=brightgreen&style=for-the-badge)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/617398163438829570)](https://discord.com/users/617398163438829570)
 
