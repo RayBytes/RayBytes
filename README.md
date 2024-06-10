@@ -3,6 +3,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raybytes&color=blue&style=for-the-badge" alt="Profile Views" />
 
 <p align="center"> <img src="https://lanyard.cnrad.dev/api/617398163438829570" alt="Discord Presence" />
-<p align="center"> <img src="https://github-readme-stats-two-beige-46.vercel.app/api/top-langs/?username=RayBytes&theme=highcontrast" alt="Most Used Languages" />
-<p align="center"> <img src="https://github-readme-stats-two-beige-46.vercel.app/api/?username=RayBytes&theme=highcontrast" alt="RayBytes" />
-
+<p align="center"> <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=RayBytes&theme=highcontrast&count_private=true&show_icons=true&locale=en&role=OWNER" alt="Most Used Languages" />
+<p align="center"> <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/?username=RayBytes&theme=highcontrast&count_private=true&show_icons=true&locale=en&role=OWNER" alt="RayBytes" />
