@@ -1,4 +1,4 @@
-<h1 align="center"> yo, i'm Ray 👋
+<h1 align="center"> heyo, i'm ray 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raybytes&color=blue&style=for-the-badge" alt="Profile Views" />
 
