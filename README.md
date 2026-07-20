@@ -1,6 +1,15 @@
-<h1 align="center">
+<p align="center">
+  <a href="https://raybytes.dev">
+    <img src="./art/source/crescent-star.png" width="100%" alt="">
+  </a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raybytes&color=blue&style=for-the-badge" alt="Profile Views" />
-
-<p align="center"> <img src="https://lanyard.cnrad.dev/api/617398163438829570" alt="Discord Presence" />
-
+<p align="center">
+  <samp>
+    <a href="https://raybytes.dev">WEB</a>
+    &nbsp;&nbsp;/&nbsp;&nbsp;
+    <a href="https://raybytes.dev/projects">MADE</a>
+    &nbsp;&nbsp;/&nbsp;&nbsp;
+    <a href="mailto:ray@raybytes.dev">MAIL</a>
+  </samp>
+</p>
