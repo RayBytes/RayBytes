@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://raybytes.dev">
-    <img src="./art/source/resonance.png" width="100%" alt="">
+    <img src="./art/source/crescent-star.png" width="100%" alt="">
   </a>
 </p>
 
